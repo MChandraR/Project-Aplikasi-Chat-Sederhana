@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/drawable/cardmodelview.xml" value="0.21388888888888888" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/drawable/cardmodelview2.xml" value="0.1125" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/drawable/cardmodelview3.xml" value="0.14114583333333333" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1125" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/activity_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/chat_room_layout.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/content_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/fragment_first.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/main_menu.xml" value="0.25" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/messagemodellayout.xml" value="0.22" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/personal_chat_layout.xml" value="0.22" />
+        <entry key="..\:/Documents/AndroidProject/LetsChat/app/src/main/res/layout/userlistview.xml" value="0.4103194103194103" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
